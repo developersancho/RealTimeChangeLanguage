@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sf.realtimechangelanguage.MainActivity">
+    <item
+        android:id="@+id/language_en"
+        android:title="English"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/language_tr"
+        android:title="Turkish"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/language_es"
+        android:title="Spanish"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealTimeChangeLanguage</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">HELLO MY FRIEND</string>
+</resources>
